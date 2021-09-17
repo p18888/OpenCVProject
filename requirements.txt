@@ -14,8 +14,8 @@ mediapipe==0.8.7.3
 #mkl-random==1.2.2
 #mkl-service==2.4.0
 numpy==1.20.3
-opencv-contrib-python==4.5.3.56
-#opencv-python-headless==4.2.0.32
+#opencv-contrib-python==4.5.3.56
+opencv-python-headless
 Pillow==8.3.2
 pip==21.0.1
 protobuf==3.18.0
