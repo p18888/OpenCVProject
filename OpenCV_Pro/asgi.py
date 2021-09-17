@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Rating_Prediction.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'OpenCV_Pro.settings')
 
 application = get_asgi_application()
