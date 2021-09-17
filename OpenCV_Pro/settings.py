@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'OpenCV Pro.wsgi.application'
+WSGI_APPLICATION = 'OpenCV_Pro.wsgi.application'
 
 
 # Database
