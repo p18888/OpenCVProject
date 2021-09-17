@@ -1,1 +1,1 @@
-web: gunicorn OpenCv Pro.wsgi
+web: gunicorn OpenCV Pro.wsgi
