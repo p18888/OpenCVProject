@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Rating_Prediction.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'OpenCV_Pro.settings')
 
 application = get_wsgi_application()
